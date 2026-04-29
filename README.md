@@ -269,8 +269,6 @@ flutter test
 # Build APK
 flutter build apk --release
 
-# Build iOS
-flutter build ios --release
 ```
 
 ---
@@ -285,3 +283,8 @@ flutter build ios --release
 - **Native Scanner**: Platform channel to Android ExecutorService for heavy network work
 
 ---
+![Home.png](../../Desktop/Home.png)
+
+![Settings.png](../../Desktop/Settings.png)
+
+![Ip_details.png](../../Desktop/Ip_details.png)
