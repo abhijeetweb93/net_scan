@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/d2c-abhijeetsharma/fvm/versions/3.38.9/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/d2c-abhijeetsharma/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/d2c-abhijeetsharma/Downloads/net_scan/android/app/.cxx/debug/o1s2v2t4/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/d2c-abhijeetsharma/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/d2c-abhijeetsharma/Downloads/net_scan/android/app/.cxx/debug/o1s2v2t4/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

@@ -1,0 +1,1 @@
+/Users/d2c-abhijeetsharma/Downloads/wifi_scanner_22/build/app/intermediates/cxx/debug/2x5e533y/obj/arm64-v8a

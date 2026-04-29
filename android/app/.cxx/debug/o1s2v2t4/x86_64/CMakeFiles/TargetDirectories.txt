@@ -1,0 +1,2 @@
+/Users/d2c-abhijeetsharma/Downloads/net_scan/android/app/.cxx/debug/o1s2v2t4/x86_64/CMakeFiles/edit_cache.dir
+/Users/d2c-abhijeetsharma/Downloads/net_scan/android/app/.cxx/debug/o1s2v2t4/x86_64/CMakeFiles/rebuild_cache.dir

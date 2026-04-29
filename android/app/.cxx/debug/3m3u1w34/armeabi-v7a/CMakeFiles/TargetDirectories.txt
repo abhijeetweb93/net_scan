@@ -1,0 +1,2 @@
+/Users/d2c-abhijeetsharma/Downloads/wifi_scanner_22/android/app/.cxx/debug/3m3u1w34/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/d2c-abhijeetsharma/Downloads/wifi_scanner_22/android/app/.cxx/debug/3m3u1w34/armeabi-v7a/CMakeFiles/rebuild_cache.dir

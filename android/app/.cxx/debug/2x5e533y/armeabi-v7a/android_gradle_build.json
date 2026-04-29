@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/Users/d2c-abhijeetsharma/fvm/versions/3.38.9/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/d2c-abhijeetsharma/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/d2c-abhijeetsharma/Downloads/wifi_scanner_22/android/app/.cxx/debug/2x5e533y/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/d2c-abhijeetsharma/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/d2c-abhijeetsharma/Downloads/wifi_scanner_22/android/app/.cxx/debug/2x5e533y/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {},
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/d2c-abhijeetsharma/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/d2c-abhijeetsharma/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}

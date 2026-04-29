@@ -1,0 +1,46 @@
+plugins {
+    id "com.android.application"
+    id "kotlin-android"
+    id "dev.flutter.flutter-gradle-plugin"
+}
+
+// Set custom build directory so Flutter can find the APK
+// Flutter expects: android/build/app/outputs/flutter-apk/
+// Default Gradle outputs to: android/app/build/outputs/flutter-apk/
+layout.buildDirectory = file("../../build/app")
+
+android {
+    namespace "com.abhijeet.netscan"
+    compileSdk 35
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_17.toString()
+    }
+
+    defaultConfig {
+        applicationId "com.abhijeet.netscan"
+        minSdkVersion flutter.minSdkVersion
+        targetSdk 35
+        versionCode 1
+        versionName "1.0.0"
+    }
+
+    buildTypes {
+        debug   { minifyEnabled false; shrinkResources false }
+        profile { minifyEnabled false; shrinkResources false; signingConfig signingConfigs.debug }
+        release { minifyEnabled false; shrinkResources false; signingConfig signingConfigs.debug }
+    }
+}
+
+dependencies {
+    implementation "androidx.core:core-ktx:1.13.1"
+}
+
+flutter {
+    source "../.."
+}
