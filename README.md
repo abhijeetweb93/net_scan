@@ -283,8 +283,12 @@ flutter build apk --release
 - **Native Scanner**: Platform channel to Android ExecutorService for heavy network work
 
 ---
-![Home.png](../../Desktop/Home.png)
 
-![Settings.png](../../Desktop/Settings.png)
+<img width="1440" height="3120" alt="Home" src="https://github.com/user-attachments/assets/0ac4dc5e-abab-42a9-8baa-81431c0c29d0" />
 
-![Ip_details.png](../../Desktop/Ip_details.png)
+<img width="1440" height="3120" alt="Settings" src="https://github.com/user-attachments/assets/060da9e2-62ec-46c8-a37c-2a4a4165910e" />
+
+<img width="1440" height="3120" alt="Ip_details" src="https://github.com/user-attachments/assets/47c69da7-7b5a-4b6d-aaab-e04058485566" />
+
+
+
