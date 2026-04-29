@@ -285,11 +285,3 @@ flutter build ios --release
 - **Native Scanner**: Platform channel to Android ExecutorService for heavy network work
 
 ---
-
-## Vendor Database
-
-The bundled `assets/oui_database.json` contains 250+ OUI prefixes covering:
-Apple, Samsung, Cisco, TP-Link, Netgear, D-Link, ASUS, Raspberry Pi, Espressif (ESP8266/ESP32), Google, Amazon, Microsoft, Intel, Sonos, Ubiquiti, Aruba, Mikrotik, HP, Canon, Epson, Sony, Nintendo, Ring, Nest, and more.
-
-For a complete database (50,000+ entries), replace with the IEEE OUI registry:
-https://regauth.standards.ieee.org/standards-ra-web/pub/view.html#registries
